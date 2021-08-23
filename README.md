@@ -53,5 +53,5 @@
 # Thanks To
 * [`Baileys`](https://github.com/adiwajshing/Baileys)
 * [`Hexagonz`](https://github.com/hexagonz)
-* 
+*[`Eka`](https://github.com/ekadanuarta) 
 *[`Yogipw`](https://github.com/yogipw) 
