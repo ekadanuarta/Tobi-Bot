@@ -26,7 +26,7 @@
 ## Clone Repo & Instalasi dependencies
 ```bash
 > git clone https://github.com/ekadanuarta/Tobi-Bot
-> cd Self-Bott
+> cd Tobi-Bott
 > npm install
 > node .
 ```
